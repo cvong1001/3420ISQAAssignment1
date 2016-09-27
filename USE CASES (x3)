@@ -1,1 +1,21 @@
-Creating USE CASES (x3)
+Use Case #1
+
+Title: Determine License and Vulnerability information
+
+Primary Actor: Manager
+
+Goal in Context: The manager is able to determine license and vulnerability information from provided project information. 
+
+Stakeholders: 
+  Manger: To receive accurate information from the project regarding licenses and vulnerability.
+  Developer: To provide accurate information fr
+  
+Preconditions:
+  
+  
+  
+Main Success Scenario:
+
+Failed End Conditions:
+
+Trigger: 
