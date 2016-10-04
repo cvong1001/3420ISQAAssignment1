@@ -18,4 +18,4 @@ Main Success Scenario: Manager is able to receive software project licenses and 
 
 Failed End Conditions: Manager is unable to receive software project lincense and vulnerability information.
 
-Trigger: The manager submits a reques for software project license and vulnerability information. 
+Trigger: The manager submits a request for software project license and vulnerability information. 
