@@ -1,17 +1,17 @@
-Add Policy Documents 
+Add Policy Documents: 
 
-Known Vulnerability Results
+Known Vulnerability Results:
 
-Request Software Project Policy
+Request Software Project Policy:
 
-Results Software Package License and Vulnerability Results
+Results Software Package License and Vulnerability Results:
 
-Software Package Name
+Software Package Name:
 
-Software Package
+Software Package:
 
-Software Package License and Vulnerability Results
+Software Package License and Vulnerability Results:
 
-Software Project Policy
+Software Project Policy:
 
-Update Policy Documents 
+Update Policy Documents:
