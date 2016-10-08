@@ -24,6 +24,7 @@ Trigger: The manager submits a request for software project license and vulnerab
 Use Case #2
 
 Title: Software Package
+
 Primary Actor: Developer 
 
 Goal in Context: The developer submits software packages to be scanned for license and vulnerabilities. 
@@ -47,14 +48,16 @@ Title: Add Policy Documents
 
 Primary Actor: Manager
 
-Goal in Context: Manager will be able to add or update policy documents to existing policy documents
+Goal in Context: Manager will be able to add or update policy documents to existing policy documents.
 
-Stakeholders: Manager: 
+Stakeholders: 
+  Manager: Will be able to modify policy documents.
+  Developer: Will be receiving policy documents that the manager might have modified.
 
-Preconditions: 
+Preconditions: Developer will need to submit software packages for system to scan for liceneses and vulnerbilites. System will then package softwares into a project.
+  
+Main Success Scenario: Manager will be able to modify policy documents for developer to view.
 
-Main Success Scenario: 
+Failed End Conditions: Manager is unable to modify policy documents that he/she recieves.
 
-Failed End Conditions: 
-
-Trigger: 
+Trigger: Manager is able to receive policy documents to review and modify.
