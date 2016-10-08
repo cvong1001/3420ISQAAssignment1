@@ -1,4 +1,5 @@
 
+
 Use Case #1
 
 Title: Request Software Project License and Vulnerability Information
@@ -9,7 +10,7 @@ Goal in Context: The manager is able to request license and vulnerability inform
 
 Stakeholders: 
   Manager: To receive accurate information from the project regarding licenses and vulnerabilities.
-  Developer: To submit software packages, ultimatley providing accurate licenses and vulnerability information. 
+  Developer: To submit software packages, ultimately providing accurate licenses and vulnerability information. 
   
 Preconditions:
   Developer will need to submit software package for scanning to find software licenses and vulnerabilities.
@@ -58,6 +59,6 @@ Preconditions: Developer will need to submit software packages for system to sca
   
 Main Success Scenario: Manager will be able to modify policy documents for developer to view.
 
-Failed End Conditions: Manager is unable to modify policy documents that he/she recieves.
+Failed End Conditions: Manager is unable to modify policy documents that he/she receives.
 
 Trigger: Manager is able to receive policy documents to review and modify.
