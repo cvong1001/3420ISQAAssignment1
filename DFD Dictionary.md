@@ -12,19 +12,19 @@ Add Policy Documents: To add policy documents to the Manage Policy Documents pro
 
 Known Vulnerability Results: Reveils vulnerability results on software packages to send to the Manage Software Package for License Scanning.
 
-Request Software Project Policy: To request for software project policies.
+Request Software Project Policy: Entities and processes are able to request for software project policies.
 
-Request Software Package License and Vulnerability Results:
+Request Software Package License and Vulnerability Results: Entities and processes are able to request for software package license and vulnerability results.
 
-Software Package Name:
+Software Package Name: Name of software package sent to NIST Vulnerability Database.
 
-Software Package:
+Software Package: Componet that is used to create projects.
 
-Software Package License and Vulnerability Results:
+Software Package License and Vulnerability Results: Results for licenses and vulnerabilites for software packages.
 
-Software Project Policy:
+Software Project Policy: 
 
-Update Policy Documents: 
+Update Policy Documents: To update policy documents on the Manage Policy Documents process.
 
 
 
@@ -46,5 +46,5 @@ Manage Policy Documents:
 
 Query DB for All Software Packages and License Information:
 
-Scan for Licenses:
+Scan for Licenses: 
 
