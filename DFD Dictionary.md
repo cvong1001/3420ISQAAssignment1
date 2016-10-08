@@ -32,7 +32,7 @@ Entities
 
 Developer: 
 
-Manager:
+Manager: 
 
 
 
