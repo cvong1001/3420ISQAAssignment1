@@ -30,7 +30,7 @@ Update Policy Documents: To update policy documents on the Manage Policy Documen
 
 Entities 
 
-Developer: 
+Developer: Sends software packages to be scanned for licenses and vulnerabilities. Receives software project policies and project licenses and vulnerabilities.
 
 Manager: 
 
