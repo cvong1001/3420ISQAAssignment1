@@ -38,13 +38,13 @@ Manager:
 
 Processes
 
-Manage Software Package for License Scanning:
+Manage Software Package for License Scanning: Manages software packages for license scanning.
 
-Manage Software Package License for Project Scanning:
+Manage Software Package License for Project Scanning: Manages software package licenses for project scanning.
 
-Manage Policy Documents:
+Manage Policy Documents: Manages policy documents that the manager may add or update policies.
 
-Query DB for All Software Packages and License Information:
+Query DB for All Software Packages and License Information: 
 
-Scan for Licenses: 
+Scan for Licenses: Scans for licenses in software packages.
 
