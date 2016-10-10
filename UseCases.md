@@ -24,7 +24,7 @@ Trigger: The manager submits a request for software project license and vulnerab
 
 Use Case #2
 
-Title: Software Package
+Title: Submit Software Package
 
 Primary Actor: Developer 
 
