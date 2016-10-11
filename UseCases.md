@@ -55,7 +55,7 @@ Stakeholders:
   Manager: Will be able to modify policy documents.
   Developer: Will be receiving policy documents that the manager might have modified.
 
-Preconditions: Developer will need to submit software packages for system to scan for liceneses and vulnerbilites. System will then package softwares into a project.
+Preconditions: Developer will need to submit software packages for system to scan for licenses and vulnerabilities. System will then package softwares into a project.
   
 Main Success Scenario: Manager will be able to modify policy documents for developer to view.
 
